@@ -1,4 +1,4 @@
-# Hello!👋, 
+# Hello!👋
 I am a UX / UI Designer / Front-End Web Developer living in Canada.
 
 ---
