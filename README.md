@@ -1,5 +1,5 @@
 # Hello 👋
-I am a UX / UI Designer / Front-End Web Developer living in Canada.
+I am a UX / UI Designer / Front-End Web Developer from Canada.
 
 ---
 
