@@ -1,6 +1,8 @@
 # Hello 👋
-I am a UX / UI Designer / Front-End Web Developer from Canada.
+I am a UX / UI Designer / Front-End Web Developer / Aspiring from Canada.
 
+---
+[![roadmap.sh](https://roadmap.sh/card/tall/65e7eb70d8455747573d8ef1?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
 ---
 
 #### My work
