@@ -4,6 +4,8 @@ I am a UX / UI Designer / Front-End Web Developer / Aspiring adversary emulation
 ---
 [![roadmap.sh](https://roadmap.sh/card/tall/65e7eb70d8455747573d8ef1?variant=dark&roadmaps=cyber-security%2Cfrontend%2Cux-design)](https://roadmap.sh)
 ---
+[![](https://tryhackme.com/badge/3057674)]
+---
 
 #### My work
 inspired by a
