@@ -6,6 +6,8 @@ I am a UX / UI Designer / Front-End Web Developer / Aspiring adversary emulation
 ---
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rmb.png)
 ---
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/rmb.png)
+---
 #### My work
 inspired by a
 minimalist approach to design
