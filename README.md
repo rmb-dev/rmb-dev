@@ -3,8 +3,8 @@ I am a UX / UI Designer / Front-End Web Developer / Aspiring adversary emulation
 
 ---
 [![roadmap.sh](https://roadmap.sh/card/tall/65e7eb70d8455747573d8ef1?variant=dark&roadmaps=cyber-security%2Cfrontend%2Cux-design)](https://roadmap.sh)
-
-
+---
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rmb.png)
 ---
 
 #### My work
@@ -13,17 +13,6 @@ minimalist approach to design
 with a focus on the most
 essential elements to match a
 sleek premium look.
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-[![](https://visitcount.itsvg.in/api?id=rmb-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="left">
-<a href="https://linkedin.com/in/rbyrchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srsmaurya" height="30" width="40" /></a>
-
-</p>
 
 ---
 
@@ -36,3 +25,14 @@ sleek premium look.
 ### 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmb-dev&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<h3 align="left">Connect with me:</h3>
+
+[![](https://visitcount.itsvg.in/api?id=rmb-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="left">
+<a href="https://linkedin.com/in/rbyrchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srsmaurya" height="30" width="40" /></a>
+
+</p>
