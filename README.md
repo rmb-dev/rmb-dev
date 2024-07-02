@@ -8,7 +8,7 @@ I am a UX / UI Designer / Front-End Web Developer / Aspiring adversary emulation
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rmb.png)
 
 
-[![TryHackMe Badge](https://tryhackme.com/badge/3057674)]
+![TryHackMe Badge](https://tryhackme.com/badge/3057674)
 
 
 ---
