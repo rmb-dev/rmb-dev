@@ -1,6 +1,6 @@
 # Hello 👋
 I am a UX / UI Designer / Front-End Web Developer / Aspiring adversary emulation specialist.
-My work is inspired by a minimalist approach to design with a focus on the most essential elements to match a sleek premium look.
+# My work is inspired by a minimalist approach to design with a focus on the most essential elements to match a sleek premium look.
 
 ---
 [![roadmap.sh](https://roadmap.sh/card/tall/65e7eb70d8455747573d8ef1?variant=dark&roadmaps=cyber-security%2Cfrontend%2Cux-design)](https://roadmap.sh)
