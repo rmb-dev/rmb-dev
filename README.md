@@ -1,15 +1,32 @@
 # Hello 👋
-I am a UX / UI Designer / Front-End Web Developer / Aspiring adversary emulation specialist.
+Aspiring adversary emulation specialist.
 
-My work is inspired by a minimalist approach to design, focusing on the most essential elements to match a sleek premium look.
+## 🛠 Key Skills & Accomplishments  
+- 🐧 **Linux Fundamentals** – Competent in basic Linux operations (`cat linux.txt`)  
+- 🌐 **Network Security** – Completed the *Network Fundamentals* module & understand how the World Wide Web operates  
+- 🔐 **Pentesting & Exploitation** – Knowledgeable in **Metasploit** and practical exploitation techniques, including **hacking into Windows via EternalBlue**  
+- 🎯 **Cybersecurity Training** – Explored *Pentesting Principles* & *Cyber Ready* to understand the impact of training on security teams  
+
 
 ---
 [![roadmap.sh](https://roadmap.sh/card/tall/65e7eb70d8455747573d8ef1?variant=dark&roadmaps=cyber-security%2Cfrontend%2Cux-design)](https://roadmap.sh)
----
+
 <!-- Embed is not supported in Markdown, but you can provide a direct link -->
 [![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/rmb.png)](https://tryhackme.com/p/rmb)
 ---
 
+### 🛡️ Cybersecurity & Pentesting Tools  
+
+![SQLMap](https://img.shields.io/badge/SQLMap-%23yellow.svg?style=flat-square&logo=database&logoColor=black)  
+![Hydra](https://img.shields.io/badge/Hydra-%23red.svg?style=flat-square&logo=security&logoColor=white)  
+![Gobuster](https://img.shields.io/badge/Gobuster-%230077B5.svg?style=flat-square&logo=gnu-bash&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-%230088CC.svg?style=flat-square&logo=metasploit&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)  
+![Linux Shell](https://img.shields.io/badge/Linux%20Shell-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)  
+![Windows Command Line](https://img.shields.io/badge/Windows%20CMD-%230079D6.svg?style=flat-square&logo=windows&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-%23167DFF.svg?style=flat-square&logo=wireshark&logoColor=white)  
+![Tcpdump](https://img.shields.io/badge/Tcpdump-%23blue.svg?style=flat-square&logo=gnu-bash&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-%23008080.svg?style=flat-square&logo=nmap&logoColor=white)  
 
 
 ### 💻Tech Skills
