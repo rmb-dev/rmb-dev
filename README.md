@@ -1,11 +1,11 @@
 # Hello 👋🏻
 I'm an aspiring adversary emulation specialist.
 
-## 🛠 Key Skills & Accomplishments  
+<!-- ## 🛠 Key Skills & Accomplishments  
 - 🐧 **Linux Fundamentals** – Competent in basic Linux operations (`cat linux.txt`)  
 - 🌐 **Network Security** – Completed the *Network Fundamentals* module & understand how the World Wide Web operates  
 - 🔐 **Pentesting & Exploitation** – Knowledgeable in **Metasploit** and practical exploitation techniques, including **hacking into Windows via EternalBlue**  
-- 🎯 **Cybersecurity Training** – Explored *Pentesting Principles* & *Cyber Ready* to understand the impact of training on security teams  
+- 🎯 **Cybersecurity Training** – Explored *Pentesting Principles* & *Cyber Ready* to understand the impact of training on security teams  -->
 
 ### 🛡️ Cybersecurity & Pentesting Tools  
 
