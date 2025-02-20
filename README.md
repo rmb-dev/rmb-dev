@@ -1,12 +1,3 @@
-# Hello 👋🏻
-I'm an aspiring adversary emulation specialist
-
-<!-- ## 🛠 Key Skills & Accomplishments  
-- 🐧 **Linux Fundamentals** – Competent in basic Linux operations (`cat linux.txt`)  
-- 🌐 **Network Security** – Completed the *Network Fundamentals* module & understand how the World Wide Web operates  
-- 🔐 **Pentesting & Exploitation** – Knowledgeable in **Metasploit** and practical exploitation techniques, including **hacking into Windows via EternalBlue**  
-- 🎯 **Cybersecurity Training** – Explored *Pentesting Principles* & *Cyber Ready* to understand the impact of training on security teams  -->
-
 #### 🛡️ Cybersecurity & Pentesting Tools  
 
 ![SQLMap](https://img.shields.io/badge/SQLMap-%23yellow.svg?style=flat-square&logo=database&logoColor=black)  ![Wireshark](https://img.shields.io/badge/Wireshark-%23167DFF.svg?style=flat-square&logo=wireshark&logoColor=white)  ![Tcpdump](https://img.shields.io/badge/Tcpdump-%23blue.svg?style=flat-square&logo=gnu-bash&logoColor=white)  ![Nmap](https://img.shields.io/badge/Nmap-%23008080.svg?style=flat-square&logo=nmap&logoColor=white)  ![Hydra](https://img.shields.io/badge/Hydra-%23red.svg?style=flat-square&logo=security&logoColor=white)  ![Gobuster](https://img.shields.io/badge/Gobuster-%230077B5.svg?style=flat-square&logo=gnu-bash&logoColor=white)  ![Metasploit](https://img.shields.io/badge/Metasploit-%230088CC.svg?style=flat-square&logo=metasploit&logoColor=white)  
@@ -24,3 +15,9 @@ I'm an aspiring adversary emulation specialist
 <!-- [![roadmap.sh](https://roadmap.sh/card/tall/65e7eb70d8455747573d8ef1?variant=dark&roadmaps=cyber-security%2Cfrontend%2Cux-design)](https://roadmap.sh) -->
 <!-- ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmb-dev&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<!-- ## 🛠 Key Skills & Accomplishments  
+- 🐧 **Linux Fundamentals** – Competent in basic Linux operations (`cat linux.txt`)  
+- 🌐 **Network Security** – Completed the *Network Fundamentals* module & understand how the World Wide Web operates  
+- 🔐 **Pentesting & Exploitation** – Knowledgeable in **Metasploit** and practical exploitation techniques, including **hacking into Windows via EternalBlue**  
+- 🎯 **Cybersecurity Training** – Explored *Pentesting Principles* & *Cyber Ready* to understand the impact of training on security teams  -->
