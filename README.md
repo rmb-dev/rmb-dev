@@ -14,8 +14,8 @@
 ---
 [![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/rmb.png)](https://tryhackme.com/p/rmb) 
 ---
-[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3057674)](https://tryhackme.com/p/rmb)
 [![HackTheBox](https://www.hackthebox.eu/badge/image/442726)](https://app.hackthebox.com/profile/442726)
+---
 <!-- <p align="right"><a href="https://linkedin.com/in/rbyrchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srsmaurya" height="30" width="40" /></a></p> -->
 <!-- [![roadmap.sh](https://roadmap.sh/card/tall/65e7eb70d8455747573d8ef1?variant=dark&roadmaps=cyber-security%2Cfrontend%2Cux-design)](https://roadmap.sh) -->
 <!-- ### 📊GitHub Stats :
