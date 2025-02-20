@@ -17,9 +17,6 @@ Aspiring adversary emulation specialist.
 
 ### 🛡️ Cybersecurity & Pentesting Tools  
 
-![Windows Command Line](https://img.shields.io/badge/Windows%20CMD-%230079D6.svg?style=flat-square&logo=windows&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)  
-![Linux Shell](https://img.shields.io/badge/Linux%20Shell-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)  
 ![SQLMap](https://img.shields.io/badge/SQLMap-%23yellow.svg?style=flat-square&logo=database&logoColor=black)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-%23167DFF.svg?style=flat-square&logo=wireshark&logoColor=white)  
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-%23blue.svg?style=flat-square&logo=gnu-bash&logoColor=white)  
@@ -28,6 +25,12 @@ Aspiring adversary emulation specialist.
 ![Gobuster](https://img.shields.io/badge/Gobuster-%230077B5.svg?style=flat-square&logo=gnu-bash&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/Metasploit-%230088CC.svg?style=flat-square&logo=metasploit&logoColor=white)  
 
+### 🛠️ Scripting & Shell  
+
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)  
+![Linux Shell](https://img.shields.io/badge/Linux%20Shell-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)  
+![Windows Command Line](https://img.shields.io/badge/Windows%20CMD-%230079D6.svg?style=flat-square&logo=windows&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)  
 
 ### 💻Tech Skills
 
