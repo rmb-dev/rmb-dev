@@ -13,7 +13,6 @@
 
 ---
 [![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/rmb.png)](https://tryhackme.com/p/rmb) 
----
 [![HackTheBox](https://www.hackthebox.eu/badge/image/442726)](https://app.hackthebox.com/profile/442726)
 ---
 <!-- <p align="right"><a href="https://linkedin.com/in/rbyrchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srsmaurya" height="30" width="40" /></a></p> -->
