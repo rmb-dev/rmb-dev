@@ -8,8 +8,6 @@ My work is inspired by a minimalist approach to design, focusing on the most ess
 ---
 ![TryHackMe Badge](https://tryhackme.com/badge/3057674)
 ---
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rmb.png)
----
 <!-- Embed is not supported in Markdown, but you can provide a direct link -->
 [![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/rmb.png)](https://tryhackme.com/p/3057674)
 ---
