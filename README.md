@@ -10,6 +10,11 @@ My work is inspired by a minimalist approach to design, focusing on the most ess
 ---
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rmb.png)
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3057674" style='border:none;'></iframe>
+---
+<img src="https://tryhackme-badges.s3.amazonaws.com/rmb.png" alt="Your Image Badge" />
+---
+
 
 ### 💻Tech Skills
 
